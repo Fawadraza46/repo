@@ -1,2 +1,2 @@
-hello world and welcome to Devnet study.
+Hello World and Welcome to Devnet study.
 
