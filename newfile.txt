@@ -1,4 +1,8 @@
 Hello World and Welcome to Devnet study.
+<<<<<<< HEAD
 Thanks
 
 
+=======
+Thankyou.
+>>>>>>> afbf23921b66a4966ab009922a5cfb1bad799eca
