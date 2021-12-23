@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Hello World and Welcome to Devnet study.
 <<<<<<< HEAD
 Thanks
+=======
+hello world welcome to devnet study.
+
+New folder
+
+
+>>>>>>> new
 
 
 =======
