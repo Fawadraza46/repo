@@ -1,5 +1,6 @@
 hello world welcome to devnet study.
 
 New folder
- updated on 24/12/2021
+
+updated on 24/12/2021
 
