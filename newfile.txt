@@ -6,8 +6,12 @@ Thanks
 hello world welcome to devnet study.
 
 New folder
+<<<<<<< HEAD
 
 
+>>>>>>> new
+=======
+ updated on 24/12/2021
 >>>>>>> new
 
 
